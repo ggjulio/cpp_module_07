@@ -47,7 +47,7 @@ _IWHITE   =\e[107m
 
 UNAME := $(shell uname)
 
-NAME = conversion
+NAME = a.out
 
 SRC_DIR = ./srcs
 INC_DIR = $(shell find . -type d -name "includes")
